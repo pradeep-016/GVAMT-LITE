@@ -1,0 +1,9 @@
+# Core PyTorch packages
+torch
+torchvision
+
+# Utility + plotting (optional but useful for testing)
+matplotlib
+
+# For reproducibility and array utilities
+numpy
